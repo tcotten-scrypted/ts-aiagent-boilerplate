@@ -1,6 +1,6 @@
 # ts-aiagent-boilerplate
 
-**ts-aiagent-boilerplate** is a TypeScript-based boilerplate designed to help developers quickly start developing custom AI agent projects while keeping aligned with [@ai16zdao's Eliza framework](https://github.com/ai16z/eliza). It provides a robust development environment with tools for linting, formatting, testing, and building scalable Node.js applications. This project is not a fork of the Eliza codebase, and is instead a complementary starting point for module and package development that follows the same practices as the core project.
+**ts-aiagent-boilerplate** is a TypeScript-based boilerplate designed to help developers quickly start developing custom modules and packages for [@ai16zdao's Eliza framework](https://github.com/ai16z/eliza). It provides a robust development environment with tools for linting, formatting, testing, and building scalable Node.js applications. This project is not a fork of the Eliza codebase, and is instead a complementary starting point for module and package development that follows the same practices as the core project.
 
 ## Features
 
@@ -84,7 +84,7 @@ ts-aiagent-boilerplate/
 
 ## Attribution
 
-This boilerplate is inspired by [@ai16zdao's Eliza framework](https://github.com/ai16z/eliza), a powerful foundation for AI projects. Special thanks to their team for providing an excellent starting point for scalable AI solutions.
+This boilerplate is inspired by [@ai16zdao's Eliza framework](https://github.com/ai16z/eliza), a powerful foundation for developing #aiagents.
 
 ---
 
@@ -96,8 +96,6 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 ## Contact
 
-For any questions or feedback, please reach out at [tim@scryptedinc.com](mailto:tim@scryptedinc.com).
+For any questions or feedback, please reach out to [@cottenio](https://x.com/CottenIO).
 
-```
-
-```
+```◊
